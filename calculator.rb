@@ -1,2 +1,7 @@
-# Add your variables here
-@@ -0,0 +1 @@
+# Add your variables her
+first_number = 1
+second_number = 2
+sum = first_number + second_number
+difference = first_number - second_number
+product = first_number * second_number
+quotient = first_number / second_number
